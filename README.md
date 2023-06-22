@@ -1,2 +1,2 @@
 # HTML.CSS-JOGOS-HIST-RIA
-## cbeçalho completo
+## cabeçalho completo
