@@ -22,3 +22,18 @@ width: 5%;
     margin: 0 300px;
     font-size: 24px;
 }
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+background-image: linear-gradient(#06a389,#43A871);
+color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
